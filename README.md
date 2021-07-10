@@ -1,4 +1,6 @@
 # Github Explorer
+![Home](public/images/home.png)
+![Search](public/images/search.png)
 
 ## Getting Started
   - Para rodar a aplicação execute os comandos:
